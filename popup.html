@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Google Meet Mute Manager</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 10px;
+    }
+
+    h1 {
+      text-align: center;
+    }
+
+    .tab-button {
+      display: block;
+      margin: 10px auto;
+      padding: 10px 20px;
+      font-size: 14px;
+      background-color: #007bff;
+      color: white;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+      text-align: left;
+      width: 100%;
+    }
+
+    .tab-button.muted {
+      background-color: #dc3545; 
+    }
+
+    .tab-button:hover {
+      opacity: 0.5;
+    }
+  </style>
+</head>
+<body>
+  <h1>Google Meet Links</h1>
+  <div id="tab-list">
+   
+  </div>
+  <script src="popup.js"></script>
+</body>
+</html>
