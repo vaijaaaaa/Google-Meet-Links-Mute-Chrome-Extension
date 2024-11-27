@@ -54,8 +54,7 @@ This Chrome extension allows users to **mute and unmute** specific Google Meet t
 4. Click the button for the tab you want to mute or unmute.
 5. An alert will pop up to confirm whether the tab is now muted or unmuted.
 
-#### Screenshot of Popup UI:
-![Popup UI](https://example.com/path-to-screenshot3.png)
+
 
 ---
 
@@ -78,11 +77,7 @@ Feel free to open issues or pull requests for improvements. If you’d like to a
 
 ---
 
-## License
 
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
-
----
 
 ## Support
 
